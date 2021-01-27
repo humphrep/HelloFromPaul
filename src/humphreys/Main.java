@@ -6,16 +6,16 @@ public class Main {
 
         //Paul's Commit
         String paulName = "Paul";
-        System.out.printf("Hello, my name is %s%n", paulName);
+        System.out.printf("Hello, my name is %s.%n", paulName);
 
         // Clark says hi
         String clarkName = "Clark";
-        System.out.printf("Hello, %s, my name is %s%n", paulName, clarkName);
+        System.out.printf("Hello %s, my name is %s.%n", paulName, clarkName);
 
         String myname3 = "Flavio";
-        System.out.println("Hello, My name is " + myname3);
+        System.out.println("Hello Paul, My name is " + myname3 + ".");
 
         String name4 = "Richard";
-        System.out.println("Hello Paul, my name is " + name4);
+        System.out.println("Hello Paul, my name is " + name4 + ".");
     }
 }
