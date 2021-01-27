@@ -4,8 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String name = "Paul";
-        System.out.printf("Hello, my name is %s%n", name);
+        String paulName = "Paul";
+        System.out.printf("Hello, my name is %s%n", paulName);
 
         String name2 = "Clark";
         System.out.printf("Hello, my name is %s%n", name2);
